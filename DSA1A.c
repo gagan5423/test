@@ -95,5 +95,6 @@ int main() {
                 printf("Invalid choice! Please enter a number between 1 and 5.\n");
         }
     } while (choice != 5);
+    printf("DONE");
     return 0;
 }
