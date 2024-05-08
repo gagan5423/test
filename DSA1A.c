@@ -96,6 +96,7 @@ int main() {
         }
     } while (choice != 5);
     printf("DONE");
+    printf("DONE");
     printf("yeah");
     return 0;
 }
